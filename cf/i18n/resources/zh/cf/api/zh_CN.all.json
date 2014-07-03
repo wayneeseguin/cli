@@ -69,7 +69,7 @@
    },
    {
       "id": "Failed to start oauth request",
-      "translation": "无法启动oauth请求"
+      "translation": "无法启动开放授权(OAuth)请求"
    },
    {
       "id": "Invalid Role {{.Role}}",
